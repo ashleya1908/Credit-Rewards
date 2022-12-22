@@ -1,6 +1,6 @@
-// Ashley Allan, 2228 CS 2010 Section 1004, MoWeFri 11:30am-12:20pm
+// Ashley Allan
 
-//Program 2:Credit Rewards, File:AllanA_Pgm2, Due:09/25/2022
+//Program 2:Credit Rewards, File:AllanA_Pgm2
 
 /*
 Purpose: To find the number of points earned and the type and number of rewards selected by a cardholder for charges
